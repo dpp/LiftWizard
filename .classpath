@@ -25,6 +25,7 @@
   <classpathentry path="/home/des/.ivy2/cache/net.liftweb/lift-mapper_2.9.1/jars/lift-mapper_2.9.1-2.5-M3.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/des/.ivy2/cache/net.liftweb/lift-db_2.9.1/jars/lift-db_2.9.1-2.5-M3.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/des/.ivy2/cache/net.liftweb/lift-proto_2.9.1/jars/lift-proto_2.9.1-2.5-M3.jar" kind="lib"></classpathentry>
+  <classpathentry path="/home/des/.ivy2/cache/net.liftweb/lift-wizard_2.9.1/jars/lift-wizard_2.9.1-2.5-M3.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/des/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.0.6.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/des/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.0.6.jar" kind="lib"></classpathentry>
   <classpathentry path="/home/des/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.5.jar" kind="lib"></classpathentry>

@@ -13,3 +13,7 @@ t"
 }~; container:start; container:reload /
 ~; container:start; container:reload /
 exit
+~; container:start; container:reload /
+exit
+eclipse
+~; container:start; container:reload /
